@@ -2,7 +2,6 @@
 
 A simple dating app based on tinder-style cards. WIP 70% done.
 
-**Lastest signed .apk release to preview available at** [Google Drive](https://drive.google.com/open?id=1GOz321P5UHx9n1i2s44KJOupS30vg-EV)
 
 Used libraries/patterns:
 * MVVM pattern;
@@ -14,8 +13,6 @@ Used libraries/patterns:
 * Firestorage to store *photos*;
 * Facebook SDK to login.
 
-
-![Logo](https://github.com/muramrr/roove/blob/master/media/roove_logo_256.png)
 
 
 ### Explanations
@@ -32,11 +29,6 @@ Also, keep in mind, that *business* module should not contain android-based plug
 
 MVVM pattern implementation in this project:
 
-![MVVM](https://github.com/muramrr/roove/blob/master/media/arch_diagram.png)
-
-## License
-
-[GitHub license](https://github.com/muramrr/roove/blob/master/LICENSE)
 
 
 ```
