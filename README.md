@@ -40,5 +40,5 @@ MVVM pattern implementation in this project:
 
 
 ```
-Copyright (c) 2019 Andrii Kovalchuk
+Copyright (c) 2019 Bijukumar Narayanan
 ```
